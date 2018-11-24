@@ -15,6 +15,6 @@
 **Key take- aways :** Automating the whole Modelling building process where at one go 1000 models are built to generate outputs across Categories.
 
 ### Session 5: What makes more money - A/B Testing or Multi-Armed Bandit?
-**Key take-aways :** Explore the applications fo Multi-Armed Bandit for business. < br />
+**Key take-aways :** Explore the applications fo Multi-Armed Bandit for business.<br />
 Also, how to use Movie Lens dataset to create a online simulation wherein customers can be used as Visitor who watched a particular show and then use it to test recommendation code.
 
